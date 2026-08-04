@@ -1,0 +1,3 @@
+Designing an Enterprise Human + AI Operating model
+
+Introducing LLMs without redesigning work, roles, skills and controls can create confusion. Define where people lead, LLMs assist, deterministic automation fits and AI should not be used
