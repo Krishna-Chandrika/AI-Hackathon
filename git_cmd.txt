@@ -1,0 +1,10 @@
+https://github.com/Krishna-Chandrika/AI-Hackathon
+git clone -b develop https://github.com/Krishna-Chandrika/AI-Hackathon.git
+
+
+git init
+git status
+git add .
+git commit -m "AI Hackathon"
+git push -u origin 
+Santhiya added
